@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /editor/*
+
+Disallow: /api/*
+Disallow: /_next/*
+Disallow: /static/*
+
+Sitemap: https://dokumentpro.se/sitemap.xml
