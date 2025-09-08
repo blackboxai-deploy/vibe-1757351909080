@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# SEO-optimering för DokumentPro
+Sitemap: ${window.location.origin}/sitemap.xml
+
+# Blockera administrativa sidor
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /checkout/
